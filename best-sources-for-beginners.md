@@ -7,3 +7,5 @@ Run jupyter in bg(tmux) - https://stackoverflow.com/questions/47331050/how-to-ru
 Link an existing directory to github repository - https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 Saving password of github in terminal - https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension
+
+setting origin master as default - https://stackoverflow.com/questions/5770016/why-does-git-not-default-to-origin-master
