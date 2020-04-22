@@ -9,3 +9,5 @@ Link an existing directory to github repository - https://help.github.com/en/git
 Saving password of github in terminal - https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension
 
 setting origin master as default - https://stackoverflow.com/questions/5770016/why-does-git-not-default-to-origin-master
+
+Good Idea - Link your main directory to repository and add all subfolders not relevant to your project in .gitignore
