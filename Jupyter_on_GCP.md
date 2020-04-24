@@ -1,3 +1,4 @@
+https://tudip.com/blog-post/run-jupyter-notebook-on-google-cloud-platform/
 Step 1. Create or log in to a GCP account
 You must have an account in google cloud platform with which all the billing will be carried with it. You can also create a free tier account here and receive $300 GCP credits to spend on Google Cloud Platform over the next 12 months.
 
