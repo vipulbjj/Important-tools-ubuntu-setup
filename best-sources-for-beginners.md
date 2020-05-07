@@ -13,3 +13,5 @@ setting origin master as default - https://stackoverflow.com/questions/5770016/w
 Good Idea - Link your main directory to repository and add all subfolders not relevant to your project in .gitignore
 
 Pushing to own repo after cloning - https://stackoverflow.com/questions/18200248/cloning-a-repo-from-someone-elses-github-and-pushing-it-to-a-repo-on-my-github
+
+Beautify your terminal - https://maxim-danilov.github.io/make-linux-terminal-great-again/
