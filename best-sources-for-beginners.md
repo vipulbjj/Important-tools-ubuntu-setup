@@ -15,3 +15,5 @@ Good Idea - Link your main directory to repository and add all subfolders not re
 Pushing to own repo after cloning - https://stackoverflow.com/questions/18200248/cloning-a-repo-from-someone-elses-github-and-pushing-it-to-a-repo-on-my-github
 
 Beautify your terminal - https://maxim-danilov.github.io/make-linux-terminal-great-again/
+
+Setting up Sublime Text for Competitive Programming - https://blog.codingblocks.com/2016/setting-up-sublime-text-for-competitive-coding/
