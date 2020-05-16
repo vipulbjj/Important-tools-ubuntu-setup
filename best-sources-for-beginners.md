@@ -17,3 +17,8 @@ Pushing to own repo after cloning - https://stackoverflow.com/questions/18200248
 Beautify your terminal - https://maxim-danilov.github.io/make-linux-terminal-great-again/
 
 Setting up Sublime Text for Competitive Programming - https://blog.codingblocks.com/2016/setting-up-sublime-text-for-competitive-coding/
+
+Setting up multiple accounts on GCP - Create separate config files
+https://cloud.google.com/sdk/docs/authorizing
+https://cloud.google.com/deployment-manager/docs/step-by-step-guide/installation-and-setup
+https://stackoverflow.com/questions/44820119/how-to-use-multiple-service-accounts-with-gcloud
