@@ -22,5 +22,7 @@ Setting up multiple accounts on GCP - Create separate config files
 https://cloud.google.com/sdk/docs/authorizing
 https://cloud.google.com/deployment-manager/docs/step-by-step-guide/installation-and-setup
 https://stackoverflow.com/questions/44820119/how-to-use-multiple-service-accounts-with-gcloud
+
 gcloud config configurations activate default
+
 Port forwarding for tensorboard - gcloud compute ssh user@vm -- -NfL 6006:localhost:6006
