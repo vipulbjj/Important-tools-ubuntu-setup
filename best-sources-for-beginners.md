@@ -28,3 +28,5 @@ gcloud config configurations activate default
 Port forwarding for tensorboard - gcloud compute ssh user@vm -- -NfL 6006:localhost:6006
 
 Latex tips - https://www.andy-roberts.net/writing/latex/formatting
+
+Block Quote in Latex - https://codepunk.io/change-the-background-color-of-a-blockquote-in-latex-2/
