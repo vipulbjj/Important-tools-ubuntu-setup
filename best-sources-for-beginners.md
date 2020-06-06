@@ -30,3 +30,6 @@ Port forwarding for tensorboard - gcloud compute ssh user@vm -- -NfL 6006:localh
 Latex tips - https://www.andy-roberts.net/writing/latex/formatting
 
 Block Quote in Latex - https://codepunk.io/change-the-background-color-of-a-blockquote-in-latex-2/
+
+To make a clean requirements.txt file for your project - use pipreqs
+https://stackoverflow.com/questions/9444289/from-virtualenv-pip-freeze-requirements-txt-give-tones-of-garbage-how-to-tri
