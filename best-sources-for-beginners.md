@@ -33,3 +33,5 @@ Block Quote in Latex - https://codepunk.io/change-the-background-color-of-a-bloc
 
 To make a clean requirements.txt file for your project - use pipreqs
 https://stackoverflow.com/questions/9444289/from-virtualenv-pip-freeze-requirements-txt-give-tones-of-garbage-how-to-tri
+
+Markdown cheatseet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
