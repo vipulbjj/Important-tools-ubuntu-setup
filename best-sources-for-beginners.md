@@ -39,3 +39,6 @@ Markdown cheatseet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 Data usage - vnstati -vs -i wlp2s0 -o ~/summary.png
 
 Tokenize string to integers cpp- https://recluze.net/2019/04/21/split-string-to-int-vector-in-c/
+
+Find and copy particular type of files - find . -type f -name "*.py" -exec cp "{}" /users/gpu/vipulbjj/codes \;
+
