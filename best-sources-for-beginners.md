@@ -42,3 +42,5 @@ Tokenize string to integers cpp- https://recluze.net/2019/04/21/split-string-to-
 
 Find and copy particular type of files - find . -type f -name "*.py" -exec cp "{}" /users/gpu/vipulbjj/codes \;
 
+SSH in VSCode without Password - https://code.visualstudio.com/docs/remote/troubleshooting#_configuring-key-based-authentication
+
