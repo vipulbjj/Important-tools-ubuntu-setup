@@ -44,3 +44,5 @@ Find and copy particular type of files - find . -type f -name "*.py" -exec cp "{
 
 SSH in VSCode without Password - https://code.visualstudio.com/docs/remote/troubleshooting#_configuring-key-based-authentication
 
+Save terminal output to file - https://unix.stackexchange.com/questions/200637/save-all-the-terminal-output-to-a-file
+
