@@ -47,3 +47,5 @@ SSH in VSCode without Password - https://code.visualstudio.com/docs/remote/troub
 Save terminal output to file - https://unix.stackexchange.com/questions/200637/save-all-the-terminal-output-to-a-file
 
 Best place to learn git for industry - https://www.atlassian.com/git/tutorials/syncing/git-fetch
+
+Vim saving in case of non permission - https://stackoverflow.com/questions/8253362/etc-apt-sources-list-e212-cant-open-file-for-writing
